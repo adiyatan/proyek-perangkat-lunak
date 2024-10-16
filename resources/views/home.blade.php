@@ -16,7 +16,7 @@
         </div>
         <div class="card bg-light shadow-sm">
             <h4>Dropbox</h4>
-            <h2>142,593</h2>
+            <h2>141,593</h2>
         </div>
         <div class="card bg-light shadow-sm">
             <h4>Total Poin</h4>
