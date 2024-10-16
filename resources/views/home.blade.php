@@ -8,7 +8,7 @@
     <div class="stats">
         <div class="card bg-light shadow-sm">
             <h4>Pelanggan</h4>
-            <h2>425,000</h2>
+            <h2>423,000</h2>
         </div>
         <div class="card bg-light shadow-sm">
             <h4>Kurir</h4>
